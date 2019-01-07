@@ -1,0 +1,14 @@
+D:\Code\.Net Core\NetCoreUsingVsCode\bin\Debug\netcoreapp2.2\NetCoreUsingVsCode.deps.json
+D:\Code\.Net Core\NetCoreUsingVsCode\bin\Debug\netcoreapp2.2\NetCoreUsingVsCode.runtimeconfig.json
+D:\Code\.Net Core\NetCoreUsingVsCode\bin\Debug\netcoreapp2.2\NetCoreUsingVsCode.runtimeconfig.dev.json
+D:\Code\.Net Core\NetCoreUsingVsCode\bin\Debug\netcoreapp2.2\NetCoreUsingVsCode.dll
+D:\Code\.Net Core\NetCoreUsingVsCode\bin\Debug\netcoreapp2.2\NetCoreUsingVsCode.pdb
+D:\Code\.Net Core\NetCoreUsingVsCode\obj\Debug\netcoreapp2.2\NetCoreUsingVsCode.csprojAssemblyReference.cache
+D:\Code\.Net Core\NetCoreUsingVsCode\obj\Debug\netcoreapp2.2\NetCoreUsingVsCode.csproj.CoreCompileInputs.cache
+D:\Code\.Net Core\NetCoreUsingVsCode\obj\Debug\netcoreapp2.2\NetCoreUsingVsCode.RazorAssemblyInfo.cache
+D:\Code\.Net Core\NetCoreUsingVsCode\obj\Debug\netcoreapp2.2\NetCoreUsingVsCode.RazorAssemblyInfo.cs
+D:\Code\.Net Core\NetCoreUsingVsCode\obj\Debug\netcoreapp2.2\NetCoreUsingVsCode.AssemblyInfoInputs.cache
+D:\Code\.Net Core\NetCoreUsingVsCode\obj\Debug\netcoreapp2.2\NetCoreUsingVsCode.AssemblyInfo.cs
+D:\Code\.Net Core\NetCoreUsingVsCode\obj\Debug\netcoreapp2.2\NetCoreUsingVsCode.RazorTargetAssemblyInfo.cache
+D:\Code\.Net Core\NetCoreUsingVsCode\obj\Debug\netcoreapp2.2\NetCoreUsingVsCode.dll
+D:\Code\.Net Core\NetCoreUsingVsCode\obj\Debug\netcoreapp2.2\NetCoreUsingVsCode.pdb
