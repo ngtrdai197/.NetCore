@@ -10,6 +10,7 @@ namespace NetCoreUsingVsCode.AutoMapper
         {
             // configuration for Mapper
             CreateMap<Employee, EmployeeDTO>().ReverseMap();
+            CreateMap<Product, ProductDTO>().ReverseMap();
         }
     }
 }

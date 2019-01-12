@@ -4,7 +4,10 @@ namespace NetCoreUsingVsCode.Models
 {
     public class DatabaseContext : DbContext
     {
-        public DbSet<Employee> Employees { get; set; }
+        public virtual DbSet<Employee> Employees { get; set; }
+        public virtual DbSet<Department> Departments { get; set; }
+        public virtual DbSet<Product> Products { get; set; }
+        public virtual DbSet<Category> Categorys { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
